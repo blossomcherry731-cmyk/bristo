@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-11-17T14:09:26.706083",
+    "server": "",
+    "items": [
+      {
+        "name": "Chicken Alfredo Pasta",
+        "qty": 1,
+        "price": 7.99
+      }
+    ],
+    "subtotal": 7.99,
+    "tax": 0.6392,
+    "tip": 30.0,
+    "total": 38.6292
+  },
+  {
+    "timestamp": "2025-11-18T23:07:01.680341",
+    "server": "",
+    "items": [
+      {
+        "name": "Chicken Alfredo Pasta",
+        "qty": 1,
+        "price": 7.99
+      }
+    ],
+    "subtotal": 7.99,
+    "tax": 0.6392,
+    "tip": 0.0,
+    "total": 8.6292
+  }
+]
